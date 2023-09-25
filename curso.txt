@@ -1,0 +1,12 @@
+ExploracionDelProcesamientoNatural
+	AnalisisDeTexto= 
+			Sentimiento
+			FrasesDeClave
+			Idioma
+	ReconocimientoYsintesisDeVoz=
+			TextoAVoz
+			VozATexto
+	TraduccionDeTextoYVoz=
+			VozATraduccion
+	ModeloDeLenguaje
+	BotConLenguaje
